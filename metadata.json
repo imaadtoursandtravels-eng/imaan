@@ -1,0 +1,8 @@
+{
+  "name": "Imaad International Tours & Travels",
+  "description": "Umrah Packages in Hyderabad — Imaad International Tours & Travels. Explore basic, standard, and deluxe Umrah packages, flight schedules, visa assistance, hotel enquiries, and Makkah & Madina Ziyarat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

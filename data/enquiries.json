@@ -1,0 +1,15 @@
+[
+  {
+    "referenceId": "IMD-MVJHZ064-8264",
+    "name": "Mohammed Adil",
+    "phone": "+91 98765 43210",
+    "email": "",
+    "packageType": "Standard Package (₹95,000)",
+    "preferredDepartureDate": "10 November 2026",
+    "travelersCount": 2,
+    "message": "Test enquiry verification",
+    "sourcePage": "/",
+    "createdAt": "2026-10-22T12:08:26.524Z",
+    "status": "RECEIVED"
+  }
+]
